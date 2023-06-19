@@ -1,5 +1,5 @@
 lang<br>
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,tailwindcss,php)](https://skillicons.dev)<br>
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php)](https://skillicons.dev)<br>
 frameworks<br>
 [![My Skills](https://skills.thijs.gg/icons?i=tailwindcss)](https://skillicons.dev)<br>
 4fun<br>
