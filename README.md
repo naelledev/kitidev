@@ -1,4 +1,4 @@
-| front languages | frameworks | 4fun |
+| front lang | frameworks | 4fun |
 | :- | :- | :- |
 | [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php)](https://skillicons.dev) | [![My Skills](https://skills.thijs.gg/icons?i=tailwindcss,babel)](https://skillicons.dev) | [![My Skills](https://skills.thijs.gg/icons?i=py,ts,nodejs)](https://skillicons.dev) |
 
